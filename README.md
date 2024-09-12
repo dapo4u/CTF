@@ -2,10 +2,7 @@
 ## I'm a Developer, 3MTT FELLOW ,AND TEACHER
 # CAPTURE THE FLAG APPLICATION 
 - 👨‍🏫 I enjoy teaching  as well as helping students to excel in their examination
-- ### 💻 Useful Links
-- https://cyber-dapo.hashnode.dev/password-protected-pdf-files
-- https://cyber-dapo.hashnode.dev/encryption-and-decryption-of-filespart-2
-- 📚 [youtube ](https://www.youtube.com/watch?v=7ucY3udcu8Y)
+
 - # PLEASE WATCH THE YOUTUBE VIDEO BELOW TO LEARN HOW TO MAKE THE PROJECT
 - #  CLICK ON THE  VIDEO BELOW TO WATCH <a href="https://www.youtube.com/watch?v=7ucY3udcu8Y" target="_blank">
     <img src="https://github.com/dapo4u/CaptureTheFlag/blob/main/Screenshot_28.jpg" alt="# WATCH THE VIDEO" width="700" height="900" />
